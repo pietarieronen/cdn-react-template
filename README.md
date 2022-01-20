@@ -1,2 +1,1 @@
-# cdn-react-template
-CDN setup for React
+# CDN setup for React
